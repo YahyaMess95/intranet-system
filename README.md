@@ -1,7 +1,7 @@
 # Description
 An intranet system to manage projects , documents , resources .
 # License 
-This project was done in collaboration with the company tragedel (tragedel.tn)
+This project was done in collaboration with the company tragedel (tragedel.com)
 # Integration 
 ## Tools :
  * Apache
